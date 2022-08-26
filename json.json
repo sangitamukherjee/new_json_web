@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"image": "images/img1.png",
+		"name": "Sweet Cat",
+		"price": "$24",
+		"inventory": 4,
+		"productCode": "S203"
+	},
+	{
+		"id": 2,
+		"image": "images/img2.png",
+		"name": "Cute Cat",
+		"price": "$36",
+		"inventory": 14,
+		"productCode": "C433"
+	},
+	{
+		"id": 3,
+		"image": "images/img3.png",
+		"name": "Lovely Cat",
+		"price": "$76",
+		"inventory": 7,
+		"productCode": "L012"
+	},
+	{
+		"id": 4,
+		"image": "images/img4.png",
+		"name": "Beautiful Cat",
+		"price": "$45",
+		"inventory": 5,
+		"productCode": "B0127"
+	},
+	{
+		"id": 5,
+		"image": "images/img5.png",
+		"name": "Fav Cat",
+		"price": "$62",
+		"inventory": 2,
+		"productCode": "F1233"
+	},
+	{
+		"id": 6,
+		"image": "images/img6.png",
+		"name": "Dear Cat",
+		"price": "$19",
+		"inventory": 6,
+		"productCode": "D4478"
+	}
+]
